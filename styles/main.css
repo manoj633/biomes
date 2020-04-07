@@ -8,22 +8,22 @@ body, html {
 }
 
 .parallax1 {
-	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax1.jpg");
+	background: url("asset/parallax1.jpg");
 	min-height: 100%;
 }
 
 .parallax2 {
-	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax2.jpg");
+	background: url("asset/parallax2.jpg");
 	min-height: 80%;
 }
 
 .parallax3 {
-	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax3.jpg");
+	background: url("asset/parallax3.jpg");
 	min-height: 80%;
 }
 
 .parallax4 {
-	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax4.jpg");
+	background: url("asset/parallax4.jpg");
 	min-height: 80%;
 }
 
