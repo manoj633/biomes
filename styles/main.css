@@ -23,7 +23,7 @@ body, html {
 }
 
 .parallax4 {
-	background: url("asset/parallax4.jpg");
+	background: url("../asset/parallax4.jpg");
 	min-height: 80%;
 }
 
