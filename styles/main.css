@@ -1,0 +1,111 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	font-family: 'Ubuntu',sans-serif;
+	line-height: 180%;
+	color: #666;
+	text-align: center;
+}
+
+.parallax1 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax1.jpg");
+	min-height: 100%;
+}
+
+.parallax2 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax2.jpg");
+	min-height: 80%;
+}
+
+.parallax3 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax3.jpg");
+	min-height: 80%;
+}
+
+.parallax4 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax4.jpg");
+	min-height: 80%;
+}
+
+.parallax5 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax5.jpg");
+	min-height: 80%;
+}
+
+.parallax6 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax8.jpg");
+	min-height: 80%;
+}
+
+.parallax7 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax7.jpg");
+	min-height: 80%;
+}
+
+.parallax8 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax6.jpg");
+	min-height: 80%;
+}
+
+.parallax9 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax10.jpg");
+	min-height: 80%;
+}
+
+.parallax10 {
+	background: url("F:/4JN17EC039/GUI/1HTML/Biomes/asset/parallax9.jpg");
+	min-height: 80%;
+}
+
+
+.parallax1, .parallax2, .parallax3, .parallax4, .parallax5, .parallax6, .parallax7, .parallax8, .parallax9, .parallax10 {
+	position: relative;
+	opacity: 1;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.heading {
+	position: absolute;
+	color: #fff;
+	font-size: 550%;
+	top: 38%;
+	width: 100%;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	text-shadow: 0 0 10px #000;
+}
+
+.heading-sm {
+	position: absolute;
+	top: 45%;
+	color: #fff;
+	width: 100%;
+	font-size: 250%;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	text-shadow: 0 0 10px #000;
+
+}
+
+.two-col {
+	float: left;
+	width: 42%;
+	padding: 0 4%;
+	text-align: left;
+	text-align: justify;
+}
+
+section {
+	overflow: auto;
+	padding: 50px 80px;
+}
+
+.dark{
+	overflow: auto;
+	padding: 50px 80px;
+	background-color: #323232;
+	color: #f2f2f2;
+}
